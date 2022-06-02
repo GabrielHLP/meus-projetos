@@ -6,3 +6,5 @@ quer ver o site em pleno funcionamento?
 basta acessar: https://gabrielhlp.github.io/meus-projetos/
 
 meu linkedin: https://www.linkedin.com/in/gabriel-henrique-de-lima-pereira-0aa632170/
+
+<img src="print1.png">
